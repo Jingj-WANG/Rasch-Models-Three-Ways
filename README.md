@@ -1,15 +1,9 @@
 [![Repo Checks](https://github.com/Sta663-Sp22/hw04_team03/workflows/Repo%20Checks/badge.svg)](https://github.com/Sta663-Sp22/hw04_team03/actions?query=workflow:%22Repo%20Checks%22)
 
 
-# Homework 4 - Rasch Models Three Ways
+# Rasch Models Three Ways
 
-due Friday, April 1st by 5:00 pm.
-
-
-* Li, Tianhao - [tianhao.li@duke.edu](mailto:tianhao.li@duke.edu)
-* Lu, Lexin - [lexin.lu@duke.edu](mailto:lexin.lu@duke.edu)
-* Wang, Jingjing - [jingjing.wang386@duke.edu](mailto:jingjing.wang386@duke.edu)
-* Yu, Camilla - [yue.yu652@duke.edu](mailto:yue.yu652@duke.edu)
+*Team Members*: Li, Tianhao, Lu, Lexin, Wang, Jingjing, Yu, Camilla
 
 
 ## Background
